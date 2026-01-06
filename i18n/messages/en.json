@@ -94,7 +94,13 @@
     "previousCalculations": "Previous Calculations",
     "noCalculations": "No calculations yet. Create your first calculation!",
     "viewCalculation": "View Calculation",
-    "newCalculation": "New Calculation"
+    "newCalculation": "New Calculation",
+    "viewModeList": "List",
+    "viewModeChart": "Chart",
+    "chartTypeBar": "Bar",
+    "chartTypeLine": "Line",
+    "scaleLinear": "Linear",
+    "scaleLog": "Log"
   },
   "modals": {
     "informationRequired": "Information required",

@@ -94,7 +94,13 @@
     "previousCalculations": "Predchádzajúce Výpočty",
     "noCalculations": "Zatiaľ žiadne výpočty. Vytvorte svoj prvý výpočet!",
     "viewCalculation": "Zobraziť Výpočet",
-    "newCalculation": "Nový výpočet"
+    "newCalculation": "Nový výpočet",
+    "viewModeList": "Zoznam",
+    "viewModeChart": "Graf",
+    "chartTypeBar": "Stĺpcový",
+    "chartTypeLine": "Liniový",
+    "scaleLinear": "Lineárna",
+    "scaleLog": "Logaritmická"
   },
   "modals": {
     "informationRequired": "Vyžadované informácie",

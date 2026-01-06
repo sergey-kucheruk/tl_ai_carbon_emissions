@@ -94,7 +94,13 @@
     "previousCalculations": "Prethodni Izračuni",
     "noCalculations": "Još nema izračuna. Kreirajte svoj prvi izračun!",
     "viewCalculation": "Prikaži Izračun",
-    "newCalculation": "Novi izračun"
+    "newCalculation": "Novi izračun",
+    "viewModeList": "Popis",
+    "viewModeChart": "Graf",
+    "chartTypeBar": "Stupčasti",
+    "chartTypeLine": "Linijski",
+    "scaleLinear": "Linearno",
+    "scaleLog": "Logaritamski"
   },
   "modals": {
     "informationRequired": "Potrebne informacije",

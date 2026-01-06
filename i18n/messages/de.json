@@ -94,7 +94,13 @@
     "previousCalculations": "Vorherige Berechnungen",
     "noCalculations": "Noch keine Berechnungen. Erstellen Sie Ihre erste Berechnung!",
     "viewCalculation": "Berechnung anzeigen",
-    "newCalculation": "Neue Berechnung"
+    "newCalculation": "Neue Berechnung",
+    "viewModeList": "Liste",
+    "viewModeChart": "Diagramm",
+    "chartTypeBar": "Balken",
+    "chartTypeLine": "Linie",
+    "scaleLinear": "Linear",
+    "scaleLog": "Logarithmisch"
   },
   "modals": {
     "informationRequired": "Informationen erforderlich",

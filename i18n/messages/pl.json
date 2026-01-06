@@ -94,7 +94,13 @@
     "previousCalculations": "Poprzednie Obliczenia",
     "noCalculations": "Brak obliczeń. Utwórz pierwsze obliczenie!",
     "viewCalculation": "Zobacz Obliczenie",
-    "newCalculation": "Nowe obliczenie"
+    "newCalculation": "Nowe obliczenie",
+    "viewModeList": "Lista",
+    "viewModeChart": "Wykres",
+    "chartTypeBar": "Słupkowy",
+    "chartTypeLine": "Liniowy",
+    "scaleLinear": "Liniowa",
+    "scaleLog": "Logarytmiczna"
   },
   "modals": {
     "informationRequired": "Wymagane informacje",

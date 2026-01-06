@@ -144,7 +144,7 @@ export function CalculationsChartView({
                 : 'text-gray-700 hover:bg-green-50'
             }`}
           >
-            Bar
+            {t('calculations.chartTypeBar')}
           </button>
           <button
             type="button"
@@ -160,7 +160,7 @@ export function CalculationsChartView({
                 : 'text-gray-700 hover:bg-green-50'
             }`}
           >
-            Line
+            {t('calculations.chartTypeLine')}
           </button>
         </div>
         <div className="inline-flex rounded-lg border border-green-200 bg-white overflow-hidden shadow-sm text-xs">
@@ -178,7 +178,7 @@ export function CalculationsChartView({
                 : 'text-gray-700 hover:bg-green-50'
             }`}
           >
-            Linear
+            {t('calculations.scaleLinear')}
           </button>
           <button
             type="button"
@@ -194,7 +194,7 @@ export function CalculationsChartView({
                 : 'text-gray-700 hover:bg-green-50'
             }`}
           >
-            Log
+            {t('calculations.scaleLog')}
           </button>
         </div>
       </div>

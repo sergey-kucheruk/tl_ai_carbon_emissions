@@ -91,7 +91,7 @@ export default function PreviousCalculations({
                     : 'text-gray-700 hover:bg-green-50'
                 }`}
               >
-                List
+                {t('calculations.viewModeList')}
               </button>
               <button
                 type="button"
@@ -102,7 +102,7 @@ export default function PreviousCalculations({
                     : 'text-gray-700 hover:bg-green-50'
                 }`}
               >
-                Chart
+                {t('calculations.viewModeChart')}
               </button>
             </div>
           </div>
